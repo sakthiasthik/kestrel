@@ -220,7 +220,7 @@
 			)
 		)
 		(instances
-			(project "Diy_PowerBank_2IC"
+			(project "kestrel"
 				(path "/bccdecbf-59b1-477b-bbba-7d86ea4cc13a"
 					(page "3")
 				)
@@ -332,7 +332,7 @@
 			)
 		)
 		(instances
-			(project "Diy_PowerBank_2IC"
+			(project "kestrel"
 				(path "/bccdecbf-59b1-477b-bbba-7d86ea4cc13a"
 					(page "2")
 				)

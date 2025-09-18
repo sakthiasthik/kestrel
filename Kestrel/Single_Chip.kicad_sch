@@ -8917,7 +8917,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "edff9e48-1301-403c-b8af-a36c9466ea26")
 		(property "Reference" "Q6"
 			(at 198.12 106.68 90)
